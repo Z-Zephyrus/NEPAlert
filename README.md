@@ -84,7 +84,6 @@ NEPAlert/
 ├── sketch.ino
 ├── diagram.json
 ├── README.md
-└── screenshots/
 ```
 
 ## Tech
